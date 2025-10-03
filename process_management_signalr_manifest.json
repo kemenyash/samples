@@ -1,0 +1,6 @@
+{
+  "Name": "SignalRTransportPlugin",
+  "Version": "1.0.0",
+  "MainAssembly": "modProcessManagerSignalR.dll",
+  "EntryType": "modProcessManagerSignalR.SignalRTransportPlugin"
+}
